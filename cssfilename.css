@@ -20,6 +20,7 @@ td {
 border: 2px solid white;
 background-color: rgb(118, 73, 5);
 color: antiquewhite;
+border-radius: 5px;
 }
 
 .two {
@@ -27,4 +28,41 @@ color: antiquewhite;
     padding: 20px;
    border: 2px solid rgb(0, 187, 255);
    background-color: rgb(248, 215, 144);
+   border-radius: 5px;
+   display: inline-block;
+}
+
+.three {
+    height: auto;
+    background-color: rgb(248, 215, 144);
+    float: right;  
+    padding: 20px;
+    border-radius: 5px;  
+    border: 2px solid rgb(0, 187, 255);
+}
+
+.headingForm {
+    color: bisque ;
+    background-color:rgb(134, 81, 10);
+    padding: 20px 60px;
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+}
+
+.submitForm {
+    color: bisque ;
+    background-color:rgb(134, 81, 10);
+    border-radius: 30px;
+    width: 150px;
+    height: 30px;
+    border: 1px solid;
+}
+select {
+    width: 170px;
+    height: 20px;
+}
+label {
+    font-weight: normal;
+    font-size: small;
 }
