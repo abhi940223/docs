@@ -1,0 +1,30 @@
+th {
+    background-color: rgb(135, 173, 69);
+    color: white;
+    height: 40px;
+}
+
+td {
+   padding: 15px ;
+}
+
+.csslearn {
+    border: 2px solid white;
+}
+
+.desc {
+    background-color:rgb(223, 238, 197);
+}
+
+.one {
+border: 2px solid white;
+background-color: rgb(118, 73, 5);
+color: antiquewhite;
+}
+
+.two {
+    width: 60%;
+    padding: 20px;
+   border: 2px solid rgb(0, 187, 255);
+   background-color: rgb(248, 215, 144);
+}
