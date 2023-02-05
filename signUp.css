@@ -1,0 +1,46 @@
+.updown {
+    background-color: rgb(247, 153, 44);
+    display: flex;
+    justify-content: flex-end;
+}
+
+h3 {
+    margin: 0px;
+    padding: 6px;
+    width: 339px;
+    color: wheat;
+    background-color: rgb(247, 153, 44);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    background-color: rgb(14, 5, 45);
+    color: yellow;
+    width: 350px;
+}
+
+#one{
+background-color: rgb(135, 193, 49);
+color: white;
+border: 0px solid white;
+margin: 5px;
+}
+#two{
+    background-color: rgb(234, 77, 77);
+    color: white;
+    border: 0px solid white;
+    margin: 5px;
+}
+label {
+    margin: 20px;
+}
+
+input {
+    margin: 5px;
+}
